@@ -57,4 +57,10 @@ table {
 .navbar li{ 
   float: left;
 }
+ul{
+  list-style-type: none;
+}
+li{
+  list-style-type: none;
+}
 

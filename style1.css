@@ -41,17 +41,11 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(72, 147, 239, 0.403);
     }
-    /*
-    ul {
-    list-style-type: none;
-    padding: 0;
-    }
-    
-    li {
-    margin-bottom: 10px;
-    display: inline-block;
-    text-align: center;
-    width: 100%;
-    }
-*/
+    ul{
+        list-style-type: none;
+      }
+      li{
+        list-style-type: none;
+      }
+
     
